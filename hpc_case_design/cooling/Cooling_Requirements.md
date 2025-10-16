@@ -19,5 +19,5 @@ NOTE: EDIT DELTA T TO REFLECT AIR COMING IN VS GOING OUT</br>
 For proper airflow circulation, you'll need to ensure that the total cross-sectional area of the exhaust vent is equal to or greater than the cross-sectional area of the fan's inlet (or intake) area. This ensures that the airflow is not restricted, allowing for efficient cooling. </br>
 Therefore: </br>
 Areainlet  = π * (dinlet /2)2</br>
-= π*(92/2)2</br>
+= π * (92/2)2</br>
 = 6647.6mm2</br>
